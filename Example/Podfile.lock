@@ -1,0 +1,16 @@
+PODS:
+  - CredentialValidator (0.1.0)
+
+DEPENDENCIES:
+  - CredentialValidator (from `../`)
+
+EXTERNAL SOURCES:
+  CredentialValidator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CredentialValidator: f92f4ed245f80badaabfc814af5660197da05baa
+
+PODFILE CHECKSUM: 7b0bb015dfa687b030f0655edf51ca0d25edb8f9
+
+COCOAPODS: 1.13.0
